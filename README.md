@@ -27,7 +27,8 @@
 
 - 🔧 [hardest-project-ever](https://github.com/detectiveRight/hardest-project-ever) — A great project with a great future
 - 💻 [mimi-simple-pc-price-calculator](https://github.com/detectiveRight/mimi-simple-pc-price-calculator) — CLI tool to estimate your PC price using AI
-
+- 📚 [hardest-project-ever](https://github.com/detectiveRight/foss-banner) — Animated ASCII art banners for FOSS lovers
+   
 ---
 
 <div align="center">
