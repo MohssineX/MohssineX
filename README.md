@@ -4,7 +4,7 @@
 
 ---
 
-🎯 Learning Python 🐍 | Building CLI tools | Hello World 👋
+🎯 Learning Python 🐍 | Building tools | Hello World 👋
 
 ---
 
