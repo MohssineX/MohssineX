@@ -3,8 +3,9 @@
 </div>
 
 ---
+### 🔍 What I Care About
 
-🎯 Learning Python 🐍 | Building tools 🛠 | Hello World 👋
+🐍 Python  •  🐧 Linux  •  🔓 Open Source  •  🔒 Privacy  •  💻 OS Enthusiast
 
 ---
 
