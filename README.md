@@ -5,7 +5,7 @@
 ---
 ### 🔍 What I Care About
 
-⚙️ C language •  🐧 Linux  •  🔓 Open Source  •  🔒 Privacy  •  💻 OS Enthusiast
+🐍 Python •  🐧 Linux  •  🔓 Open Source  •  🔒 Privacy  •  💻 OS Enthusiast
 
 ---
 
