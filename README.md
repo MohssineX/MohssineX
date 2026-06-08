@@ -14,11 +14,11 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://github.com/detectiveRight/detectiveRight/blob/output/github-contribution-grid-snake-dark.svg" />
+            srcset="https://github.com/MultiRight/MultiRight/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://github.com/detectiveRight/detectiveRight/blob/output/github-contribution-grid-snake.svg" />
+            srcset="https://github.com/MultiRight/MultiRight/blob/output/github-contribution-grid-snake.svg" />
     <img alt="snake"
-         src="https://github.com/detectiveRight/detectiveRight/blob/output/github-contribution-grid-snake-dark.svg" />
+         src="https://github.com/MultiRight/MultiRight/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -26,9 +26,9 @@
 
 ### 📌  Featured Projects
 
-- 🔧 [hardest-project-ever](https://github.com/detectiveRight/hardest-project-ever) - A great project with a great future
-- 💻 [mimi-simple-pc-price-calculator](https://github.com/detectiveRight/mimi-simple-pc-price-calculator) - CLI tool to estimate your PC price using AI
-- 📚 [foss-banner](https://github.com/detectiveRight/foss-banner) - Animated ASCII art banners for FOSS lovers
+- 🔧 [hardest-project-ever](https://github.com/MultiRight/hardest-project-ever) - A great project with a great future
+- 💻 [mimi-simple-pc-price-calculator](https://github.com/MultiRight/mimi-simple-pc-price-calculator) - CLI tool to estimate your PC price using AI
+- 📚 [foss-banner](https://github.com/MultiRight/foss-banner) - Animated ASCII art banners for FOSS lovers
 - 📏 [PyGeoterm](https://github.com/MultiRight/PyGeoterm) - A terminal-based geometric area calculator written in Python. 
 ---
 ### 🐱 Special Thanks
