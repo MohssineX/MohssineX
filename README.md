@@ -6,10 +6,10 @@
 
 ### 🔍 What I Care About
 
- -   🐍 Python language
+ -   🐍 Python Language
  -   🐧 Linux Enthusiast
  -   🔓 Open Source  
- -   🔒 Digital privacy  
+ -   🔒 Digital Privacy  
  -   💻 OS Enthusiast
 
 ---
