@@ -7,13 +7,7 @@
 ### 🔍 What I Care About
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Privacy](https://img.shields.io/badge/Privacy-FF6B6B?style=for-the-badge&logo=tor-project&logoColor=white)
-![OS Enthusiast](https://img.shields.io/badge/OS%20Enthusiast-1a1a2e?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode&theme=dark" />
 </div>
 
 <br/>
