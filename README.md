@@ -6,15 +6,15 @@
 
 ### 🔍 What I Care About
 
-•  🐍 Python
+ •  🐍 Python
 
-•  🐧 Linux  
+ •  🐧 Linux  
 
-•  🔓 Open Source  
+ •  🔓 Open Source  
 
-•  🔒 Privacy  
+ •  🔒 Privacy  
 
-•  💻 OS Enthusiast
+ •  💻 OS Enthusiast
 
 ---
 
