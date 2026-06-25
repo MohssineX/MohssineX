@@ -6,7 +6,7 @@
 
 ### 🔍 What I Care About
 
- -  🐍 Python
+ -  🐍 Python language
  -  🐧 Linux  
  -  🔓 Open Source  
  -  🔒 Privacy  
