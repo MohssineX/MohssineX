@@ -5,13 +5,8 @@
 ---
 ### 🔍 What I Care About
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=bash,git&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
-</div>
+🐍 Python •  🐧 Linux  •  🔓 Open Source  •  🔒 Privacy  •  💻 OS Enthusiast
+
 ---
 
 ### 🐍 My Contributions
