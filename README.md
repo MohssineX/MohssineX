@@ -2,41 +2,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=MultiRight&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=📚%20Every%20outcome%20is%20the%20result%20of%20what%20I%20did%20before&descAlignY=60&descSize=18&descColor=8b949e"/>
 </div>
 
-<br/>
-
-<div align="center">
-
-### 👤 About Me
-
-> *A passionate developer who believes every outcome is the result of what I did before.*
-> Interested in building useful tools with Python, exploring Linux internals, and contributing to open source.
-
-</div>
-
-<br/>
-
+---
 ### 🔍 What I Care About
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=bash,git&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
-</div>
+🐍 Python •  🐧 Linux  •  🔓 Open Source  •  🔒 Privacy  •  💻 OS Enthusiast
 
-<br/>
-
-### 📌 Featured Projects
-
-| 🗂️ Project | 📝 Description |
-|---|---|
-| 📚 [foss-banner](https://github.com/MultiRight/foss-banner) | Animated ASCII art banners for FOSS lovers |
-| 📏 [PyGeoterm](https://github.com/MultiRight/PyGeoterm) | A terminal-based geometric area calculator written in Python |
-| 💾 [RAM-monitor](https://github.com/MultiRight/RAM-monitor) | A lightweight terminal tool that monitors RAM usage in real-time |
-| 🔑 [MultiGenerator](https://github.com/MultiRight/MultiGenerator) | A simple and secure CLI password generator built with Python |
-
-<br/>
+---
 
 ### 🐍 My Contributions
 
@@ -51,13 +22,20 @@
   </picture>
 </div>
 
-<br/>
+---
 
+### 📌  Featured Projects
+- 📚 [foss-banner](https://github.com/MultiRight/foss-banner) - Animated ASCII art banners for FOSS lovers
+- 📏 [PyGeoterm](https://github.com/MultiRight/PyGeoterm) - A terminal-based geometric area calculator written in Python.
+- 💾 [RAM-monitor](https://github.com/MultiRight/RAM-monitor) - A lightweight terminal tool that monitors RAM usage in real-time
+- 🔑 [MultiGenerator](https://github.com/MultiRight/MultiGenerator) - A simple and secure CLI password generator built with Python
+---
 ### 🐱 Special Thanks
 
 A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
-<br/>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
