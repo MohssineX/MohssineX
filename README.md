@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=MultiRight&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Every%20outcome%20is%20the%20result%20of%20what%20I%20did%20before&descAlignY=60&descSize=18&descColor=8b949e"/>
+  <img src="header.svg" width="100%" alt="MultiRight"/>
 </div>
 
 ---
 
-### 🔍 What I Care About
+###   What I Care About :
 
  -   🐍 Python Language
  -   🐧 Linux Enthusiast
@@ -14,7 +14,7 @@
 
 ---
 
-### 🐍 My Contributions
+###   My Contributions :
 
 <div align="center">
   <picture>
@@ -29,7 +29,7 @@
 
 ---
 
-### 📌  Featured Projects
+###   Featured Projects :
 
 - 📚 [foss-banner](https://github.com/MultiRight/foss-banner) - Animated ASCII art banners for FOSS lovers
 - 📏 [PyGeoterm](https://github.com/MultiRight/PyGeoterm) - A terminal-based geometric area calculator written in Python.
@@ -44,6 +44,4 @@ A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-</div>
+
