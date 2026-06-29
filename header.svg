@@ -1,24 +1,41 @@
-<svg width="680" height="160" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>MultiRight terminal banner</title>
+  <desc>Terminal-style banner showing MultiRight typed letter by letter in green</desc>
   <style>
     @keyframes blink {
       0%, 100% { opacity: 1; }
       50% { opacity: 0; }
     }
     .cursor { animation: blink 1.2s step-end infinite; }
+
+    @keyframes fadeInLetter {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .l1  { opacity: 0; animation: fadeInLetter 0.05s 0.3s forwards; }
+    .l2  { opacity: 0; animation: fadeInLetter 0.05s 0.45s forwards; }
+    .l3  { opacity: 0; animation: fadeInLetter 0.05s 0.6s forwards; }
+    .l4  { opacity: 0; animation: fadeInLetter 0.05s 0.75s forwards; }
+    .l5  { opacity: 0; animation: fadeInLetter 0.05s 0.9s forwards; }
+    .l6  { opacity: 0; animation: fadeInLetter 0.05s 1.05s forwards; }
+    .l7  { opacity: 0; animation: fadeInLetter 0.05s 1.2s forwards; }
+    .l8  { opacity: 0; animation: fadeInLetter 0.05s 1.35s forwards; }
+    .l9  { opacity: 0; animation: fadeInLetter 0.05s 1.5s forwards; }
+    .l10 { opacity: 0; animation: fadeInLetter 0.05s 1.65s forwards; }
   </style>
 
   <rect width="680" height="160" rx="8" fill="#0d1117"/>
-
   <text x="340" y="28" text-anchor="middle" font-family="monospace" font-size="11" fill="#3d4451">~/MultiRight/README.md</text>
-
   <line x1="0" y1="40" x2="680" y2="40" stroke="#21262d" stroke-width="0.5"/>
 
   <text x="40" y="75" font-family="monospace" font-size="13" fill="#58a6ff">$</text>
   <text x="56" y="75" font-family="monospace" font-size="13" fill="#c9d1d9">whoami</text>
 
-  <text x="40" y="105" font-family="monospace" font-size="26" font-weight="700" fill="#e6edf3">MultiRight</text>
+  <text font-family="monospace" font-size="26" font-weight="700" fill="#3fb950" y="105">
+    <tspan class="l1" x="40">M</tspan><tspan class="l2">u</tspan><tspan class="l3">l</tspan><tspan class="l4">t</tspan><tspan class="l5">i</tspan><tspan class="l6">R</tspan><tspan class="l7">i</tspan><tspan class="l8">g</tspan><tspan class="l9">h</tspan><tspan class="l10">t</tspan>
+  </text>
 
-  <text x="40" y="130" font-family="monospace" font-size="12" fill="#6a9955"># Every outcome is the result of what I did before</text>
+  <text x="40" y="130" font-family="monospace" font-size="12" fill="#6b7280"># Every outcome is the result of what I did before</text>
 
   <rect class="cursor" x="40" y="140" width="7" height="13" fill="#58a6ff"/>
 </svg>
