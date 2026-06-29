@@ -4,7 +4,7 @@
 
 ---
 
-###   What I Care About :
+### 🔍 What I Care About :
 
  -   🐍 Python Language
  -   🐧 Linux Enthusiast
@@ -14,7 +14,7 @@
 
 ---
 
-###   My Contributions :
+### 🐍 My Contributions :
 
 <div align="center">
   <picture>
@@ -29,7 +29,7 @@
 
 ---
 
-###   Featured Projects :
+### 📌 Featured Projects :
 
 - 📚 [foss-banner](https://github.com/MultiRight/foss-banner) - Animated ASCII art banners for FOSS lovers
 - 📏 [PyGeoterm](https://github.com/MultiRight/PyGeoterm) - A terminal-based geometric area calculator written in Python.
@@ -38,7 +38,7 @@
 
 ---
 
-### 🐱 Special Thanks
+### 🐱 Special Thanks :
 
 A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
