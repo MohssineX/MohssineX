@@ -31,10 +31,10 @@
 
 projects = {
 
-    "foss-banner" : "https://github.com/MultiRight/foss-banner",
-    "pygeoterm" : "https://github.com/MultiRight/pygeoterm",
-    "ram-monitor" : "https://github.com/MultiRight/ram-monitor",
-    "multigenerator" : "https://github.com/MultiRight/multigenerator",
+    "foss-banner" : "https://github.com/Mohssine0x/foss-banner",
+    "pygeoterm" : "https://github.com/Mohssine0x/pygeoterm",
+    "ram-monitor" : "https://github.com/Mohssine0x/ram-monitor",
+    "multigenerator" : "https://github.com/Mohssine0x/multigenerator",
 
 }
 
