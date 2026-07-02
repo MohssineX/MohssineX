@@ -26,7 +26,7 @@
   <text x="40" y="75" font-family="monospace" font-size="13" fill="#58a6ff">$</text>
   <text x="56" y="75" font-family="monospace" font-size="13" fill="#c9d1d9">whoami</text>
   <text font-family="monospace" font-size="26" font-weight="700" fill="#3fb950" y="105">
-    <tspan class="l1" x="40">m</tspan><tspan class="l2">o</tspan><tspan class="l3">h</tspan><tspan class="l4">s</tspan><tspan class="l5">s</tspan><tspan class="l6">i</tspan><tspan class="l7">n</tspan><tspan class="l8">e</tspan>
+    <tspan class="l1" x="40">M</tspan><tspan class="l2">o</tspan><tspan class="l3">h</tspan><tspan class="l4">s</tspan><tspan class="l5">s</tspan><tspan class="l6">i</tspan><tspan class="l7">n</tspan><tspan class="l8">e</tspan>
   </text>
   <text x="40" y="130" font-family="monospace" font-size="12" fill="#6b7280"># Every outcome is the result of what I did before</text>
   <rect class="cursor" x="40" y="140" width="7" height="13" fill="#58a6ff"/>
