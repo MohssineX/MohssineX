@@ -35,6 +35,7 @@ projects = {
     "pygeoterm" : "https://github.com/MohssineX/pygeoterm",
     "ram-monitor" : "https://github.com/MohssineX/ram-monitor",
     "multigenerator" : "https://github.com/MohssineX/multigenerator",
+    "studytimer" : "https://github.com/MohssineX/studytimer",
 
 }
 
