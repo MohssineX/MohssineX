@@ -43,10 +43,5 @@ projects = {
 ```
 ---
 
-# 🐱 Special Thanks :
-
-A special thanks to **mimi** — the legendary, the great, the gentle cat.
-
----
 
 
