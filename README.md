@@ -43,7 +43,4 @@ projects = {
 ```
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=MohssineX&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&card_width=550)
-
----
 
