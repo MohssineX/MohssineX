@@ -34,7 +34,7 @@ projects = {
     "foss-banner" : "https://github.com/MohssineX/foss-banner",
     "pygeoterm" : "https://github.com/MohssineX/pygeoterm",
     "ram-monitor" : "https://github.com/MohssineX/ram-monitor",
-    "multigenerator" : "https://github.com/MohssineX/multigenerator",
+    "loadspeed" : "https://github.com/MohssineX/loadspeed",
     "studytimer" : "https://github.com/MohssineX/studytimer",
     "quranPlayer" : "https://github.com/MohssineX/quranPlayer",
 
