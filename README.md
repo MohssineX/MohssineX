@@ -7,7 +7,7 @@
 
 # About Me : 
 
- - I am a beginner programmer and I am still learning :)
+ - Passionate about programming and continuous learning :)
  - From time to time I create projects and make them open source
  - I hope you find my projects useful and interesting
 
