@@ -15,7 +15,7 @@
 
 # What I Care About :
 
- -   🐍 Python Language
+ -   ⚡ Go Language
  -   🐧 Linux Enthusiast
  -   ⚙️ Open Source  
  -   🔒 Digital Privacy  
