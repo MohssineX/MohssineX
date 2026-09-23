@@ -7,7 +7,7 @@
 
 # About Me : 
 
- - Passionate about programming and continuous learning :)
+ - I'm trying to do what needs to be done
  - From time to time I create projects and make them open source
  - I hope you find my projects useful and interesting
 
