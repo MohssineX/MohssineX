@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  <img src="whoami.svg" width="100%" alt="MohssineX"/>
+</div>
 
-<!--
-**MohssineX/MohssineX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About Me : 
+
+ - I'm trying to do what needs to be done :)
+ - From time to time I create projects and make them open source
+ - I hope you find my projects useful and interesting
+
+---
+
+# What I Care About :
+
+ -   ⚡ Go Language
+ -   🐧 Linux Enthusiast
+ -   ⚙️ Open Source  
+ -   🔒 Digital Privacy  
+ -   💻 OS Enthusiast
+
+---
+
+# Featured Projects :
+
+```python
+
+# My Featured Projects :
+
+projects = {
+
+    "TilawaPlayer" : "https://github.com/MohssineX/TilawaPlayer",
+
+}
+
+```
+---
+
+
