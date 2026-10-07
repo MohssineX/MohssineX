@@ -7,7 +7,7 @@
 
 # About Me : 
 
- - I'm trying to do what needs to be done :)
+ - I'm learning programming as a hobby :)
  - From time to time I create projects and make them open source
  - I hope you find my projects useful and interesting
 
