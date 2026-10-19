@@ -31,9 +31,7 @@
 projects = {
 
     "TilawaPlayer" : "https://github.com/MohssineX/TilawaPlayer",
-    "pygeoterm" : "https://github.com/MohssineX/pygeoterm",
     "mcls" : "https://github.com/MohssineX/mcls",
-    "studytimer" : "https://github.com/MohssineX/studytimer",
     "foss-banner" : "https://github.com/MohssineX/foss-banner",
     "ram-monitor" : "https://github.com/MohssineX/ram-monitor",
 
