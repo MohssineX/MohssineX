@@ -14,7 +14,7 @@
 
 # What I Care About :
 
- -   ⚡ Go Language
+ -   🦀 Rust Language
  -   🐧 Linux Enthusiast
  -   ⚙️ Open Source  
  -   🔒 Digital Privacy  
