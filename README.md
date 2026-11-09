@@ -16,7 +16,7 @@
 
  -   🦀 Rust Language
  -   🐧 Linux Enthusiast
- -   📦 Open Source  
+ -   🌱 Open Source  
  -   🔒 Digital Privacy  
  -   ⚙️ Low-Level Systems Programming
 
