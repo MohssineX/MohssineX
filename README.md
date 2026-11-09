@@ -15,7 +15,7 @@
 # What I Care About :
 
  -   🦀 Rust Language
- -   🐧 Linux Enthusiast
+ -   🐧 Linux
  -   🌱 Open Source  
  -   🔒 Digital Privacy  
  -   ⚙️ Low-Level Systems Programming
