@@ -14,7 +14,7 @@
 
 # What I Care About :
 
- -   🦀 Rust Language
+ -   🦀 Rust Programming Language
  -   🐧 Linux
  -   🌱 Open Source  
  -   🔒 Digital Privacy  
